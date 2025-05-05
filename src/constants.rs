@@ -1,0 +1,9 @@
+pub const GLOBAL_AUTHORITY_SEED: &str = "global-authority";
+pub const VAULT_AUTHORITY_SEED: &str = "vault-authority";
+pub const USER_STAKING_POOL_SEED: &str = "user-staking-pool";
+pub const STAKING_PERIOD: u64 = 7;
+pub const NFT_NUMBER: usize = 30;
+pub const DAY: u64 = 60 * 60 * 24;
+// pub const DAY: u64 = 1;
+pub const COLLECTION_ADDRESS: &str = "4JKTMijHdtYGuamhjfUrvPipFkBCf9Cgd3nPDKSEgNZE";
+pub const SOLANA_LAMPORTS: u64 = 1_000_000_000;
